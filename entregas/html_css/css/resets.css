@@ -1,0 +1,35 @@
+/* =Resets: */
+
+aside,
+header,
+nav,
+main
+{
+  display: block;
+}
+
+aside,
+div,
+form,
+header,
+nav,
+input,
+main
+{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  margin: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
